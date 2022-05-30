@@ -21,3 +21,46 @@ nav {
     width: 50px;
     height: auto;
 }
+.hero-section{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+#mountain-hero {
+    width: auto;
+    height: 200px;
+}
+
+.hero-main{
+    color: #F9FAF8;
+    width: 30%;
+}
+
+.hero-button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 8px;
+}
+.sec2pictures {
+    display: flex;
+    justify-content: center; 
+}
+
+.sec2header {
+    font-weight:bolder;
+    font-size: 36px;
+    color: #1F2937;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.pic4sec {
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
