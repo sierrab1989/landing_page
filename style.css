@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+}
+.section1{
+    background-color: #1F2937;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+.nav-links-div{
+    padding-top: 15px;  
+}
+.nav-links-div a {
+    padding-right: 25px;
+    padding-top: 10px;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+.logoimg {
+    width: 50px;
+    height: auto;
+}
